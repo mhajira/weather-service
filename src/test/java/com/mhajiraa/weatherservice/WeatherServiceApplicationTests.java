@@ -1,4 +1,4 @@
-package com.mhajiraa.weatherservice;
+package com.mhajira.weatherservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
